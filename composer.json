@@ -1,5 +1,5 @@
 {
-    "name": "vitalets/x-editable-yii",
+    "name": "dbrisinajumi/x-editable-yii",
     "description": "Bundle of widgets and server-side component for creating editable elements in Yii application",
     "homepage": "http://x-editable.demopage.ru",
     "type": "yii-extension",
